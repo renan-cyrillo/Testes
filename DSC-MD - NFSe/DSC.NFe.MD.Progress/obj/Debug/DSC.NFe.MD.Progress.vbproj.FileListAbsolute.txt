@@ -1,0 +1,108 @@
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\pgManifesto.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.Messages.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.o4glrt.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.ssl.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.Resources.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbproj.GenerateResource.Cache
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.pdb
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbprojResolveAssemblyReference.cache
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\pgManifesto.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.Messages.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.o4glrt.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.ssl.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbprojResolveAssemblyReference.cache
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.Resources.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbproj.GenerateResource.Cache
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.pdb
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.dll
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.pdb
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.xml
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\pgManifesto.dll
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.Messages.dll
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.o4glrt.dll
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.ssl.dll
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbprojResolveAssemblyReference.cache
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.Resources.resources
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbproj.GenerateResource.Cache
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.dll
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.xml
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\pgManifesto.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.Messages.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.o4glrt.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.ssl.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.Resources.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbproj.GenerateResource.Cache
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbprojResolveAssemblyReference.cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\pgManifesto.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.Messages.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.o4glrt.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.ssl.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.Resources.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbproj.GenerateResource.Cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.ssl.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Progress\bin\Debug\Progress.ssl.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbproj.CopyComplete
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Progress\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Progress\bin\Debug\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Progress\bin\Debug\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Progress\bin\Debug\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Progress\bin\Debug\Progress.ssl.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.vbproj.CopyComplete
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Progress\obj\Debug\DSC.NFe.MD.Progress.pdb

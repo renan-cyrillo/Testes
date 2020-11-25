@@ -1,0 +1,90 @@
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.Resources.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.pdb
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.dll
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.pdb
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.xml
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.Resources.resources
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.vbproj.GenerateResource.Cache
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.dll
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.xml
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.pdb
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\ResolveAssemblyReference.cache
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\GenerateResource.read.1.tlog
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\GenerateResource.write.1.tlog
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.Resources.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.vbproj.GenerateResource.Cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.dll.config
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.PainelControle.exe
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.PainelControle.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.PainelControle.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.dll.config
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Sefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.PainelControle.exe
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.PainelControle.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.PainelControle.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\bin\Release\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.vbproj.CopyComplete
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Sefaz\obj\Release\DSC.NFe.Sefaz.pdb

@@ -1,0 +1,8 @@
+C:\DSC-ProjetosNFe\DSC-Global\DSC.EventViewer\bin\Debug\DSC.EventViewer.dll
+C:\DSC-ProjetosNFe\DSC-Global\DSC.EventViewer\bin\Debug\DSC.EventViewer.pdb
+C:\DSC-ProjetosNFe\DSC-Global\DSC.EventViewer\bin\Debug\DSC.EventViewer.xml
+C:\DSC-ProjetosNFe\DSC-Global\DSC.EventViewer\obj\Debug\DSC.EventViewer.Resources.resources
+C:\DSC-ProjetosNFe\DSC-Global\DSC.EventViewer\obj\Debug\DSC.EventViewer.vbproj.GenerateResource.Cache
+C:\DSC-ProjetosNFe\DSC-Global\DSC.EventViewer\obj\Debug\DSC.EventViewer.dll
+C:\DSC-ProjetosNFe\DSC-Global\DSC.EventViewer\obj\Debug\DSC.EventViewer.xml
+C:\DSC-ProjetosNFe\DSC-Global\DSC.EventViewer\obj\Debug\DSC.EventViewer.pdb

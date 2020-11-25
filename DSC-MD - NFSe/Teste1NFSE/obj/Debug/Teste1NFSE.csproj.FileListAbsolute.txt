@@ -1,0 +1,12 @@
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\Teste1NFSE\bin\Debug\Teste1NFSE.exe.config
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\Teste1NFSE\bin\Debug\Teste1NFSE.exe
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\Teste1NFSE\bin\Debug\Teste1NFSE.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\Teste1NFSE\obj\Debug\Teste1NFSE.csprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\Teste1NFSE\obj\Debug\Teste1NFSE.csproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\Teste1NFSE\obj\Debug\Teste1NFSE.exe
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\Teste1NFSE\obj\Debug\Teste1NFSE.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\Teste1NFSE\bin\Debug\DSC.NFe.Sefaz.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\Teste1NFSE\bin\Debug\DSC.NFe.Sefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\Teste1NFSE\bin\Debug\DSC.NFe.Sefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\Teste1NFSE\bin\Debug\DSC.NFe.Sefaz.dll.config
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\Teste1NFSE\obj\Debug\Teste1NFSE.csproj.CopyComplete

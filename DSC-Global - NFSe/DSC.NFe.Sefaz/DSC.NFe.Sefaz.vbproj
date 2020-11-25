@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{FE96245D-F597-499F-BC96-4C587B60F00D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>DSC.NFe.Sefaz</RootNamespace>
+    <AssemblyName>DSC.NFe.Sefaz</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DSC.NFe.Sefaz.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DSC.NFe.Sefaz.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cte\Versao1\WSDL\CadConsultaCadastro.vb" />
+    <Compile Include="Cte\Versao1\WSDL\CteCancelamento.vb" />
+    <Compile Include="Cte\Versao1\WSDL\CteConsulta.vb" />
+    <Compile Include="Cte\Versao1\WSDL\CTeDistribuicaoDFe.vb" />
+    <Compile Include="Cte\Versao1\WSDL\CteInutilizacao.vb" />
+    <Compile Include="Cte\Versao1\WSDL\CteRecepcao.vb" />
+    <Compile Include="Cte\Versao1\WSDL\CteRecepcaoEvento.vb" />
+    <Compile Include="Cte\Versao1\WSDL\CteRetRecepcao.vb" />
+    <Compile Include="Cte\Versao1\WSDL\CteStatusServico.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\cancCteTiposBasico_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\cancCte_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\consReciCteTiposBasico_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\consReciCte_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\consSitCteTiposBasico_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\consSitCte_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\consStatServCte_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\consStatServTiposBasico_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\cteModalAereo_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\cteModalAquaviario_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\cteModalDutoviario_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\cteModalFerroviario_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\cteModalRodoviario_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\cteTiposBasico_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\cte_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\distDFeInt_v1_00.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\retDistDFeInt_v1_00.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\_distDFeInt_v1_00.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\enviCte_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\eventoCTeTiposBasico_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\eventoCTe_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\evEPECCTe_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\inutCteTiposBasico_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\inutCte_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\procCancCTe_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\procCTe_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\procEventoCTe_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\procInutCTe_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\retCancCte_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\retConsReciCte_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\retConsSitCte_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\retConsStatServCte_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\_retDistDFeInt_v1_00.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\retEnviCte_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\retEventoCTe_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\retInutCte_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao1\XmlModel\tiposGeralCTe_v1_04_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\WSDL\CadConsultaCadastro.vb" />
+    <Compile Include="Cte\Versao2\WSDL\CteCancelamento.vb" />
+    <Compile Include="Cte\Versao2\WSDL\CteConsulta.vb" />
+    <Compile Include="Cte\Versao2\WSDL\CteInutilizacao.vb" />
+    <Compile Include="Cte\Versao2\WSDL\CteRecepcao.vb" />
+    <Compile Include="Cte\Versao2\WSDL\CteRecepcaoEvento.vb" />
+    <Compile Include="Cte\Versao2\WSDL\CteRetRecepcao.vb" />
+    <Compile Include="Cte\Versao2\WSDL\CteStatusServico.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\cancCTeTiposBasico_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\consReciCTeTiposBasico_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\consReciCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\consSitCTeTiposBasico_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\consSitCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\consStatServCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\consStatServTiposBasico_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\cteModalAereo_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\cteModalAquaviario_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\cteModalDutoviario_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\cteModalFerroviario_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\cteModalRodoviario_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\cteMultiModal_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\cteTiposBasico_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\cte_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\enviCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\evCancCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\evCCeCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\eventoCTeTiposBasico_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\eventoCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\evEPECCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\evRegMultimodal_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\inutCTeTiposBasico_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\inutCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\procCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\procEventoCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\procInutCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\retConsReciCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\retConsSitCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\retConsStatServCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\retEnviCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\retEventoCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\retInutCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao2\XmlModel\tiposGeralCTe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\WSDL\CadConsultaCadastro.vb" />
+    <Compile Include="Cte\Versao3\WSDL\CteCancelamento.vb" />
+    <Compile Include="Cte\Versao3\WSDL\CteConsulta.vb" />
+    <Compile Include="Cte\Versao3\WSDL\CteInutilizacao.vb" />
+    <Compile Include="Cte\Versao3\WSDL\CteRecepcao.vb" />
+    <Compile Include="Cte\Versao3\WSDL\CteRecepcaoEvento.vb" />
+    <Compile Include="Cte\Versao3\WSDL\CteRetRecepcao.vb" />
+    <Compile Include="Cte\Versao3\WSDL\CteStatusServico.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\cancCTeTiposBasico_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\consReciCTeTiposBasico_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\consReciCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\consSitCTeTiposBasico_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\consSitCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\consStatServCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\consStatServTiposBasico_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\cteModalAereo_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\cteModalAquaviario_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\cteModalDutoviario_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\cteModalFerroviario_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\cteModalRodoviarioOS_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\cteModalRodoviario_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\cteMultiModal_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\cteOS_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\cteTiposBasico_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\cte_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\enviCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\evCancCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\evCCeCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\eventoCTeTiposBasico_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\eventoCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\evEPECCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\evGTV_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\evPrestDesacordo_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\evRegMultimodal_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\inutCTeTiposBasico_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\inutCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\procCTeOS_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\procCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\procEventoCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\procInutCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\retConsReciCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\retConsSitCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\retConsStatServCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\retCTeOS_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\retEnviCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\retEventoCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\retInutCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\tiposGeralCTe_v3_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="Cte\Versao3\XmlModel\xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\WSDL\NFeConsultaDest.vb" />
+    <Compile Include="NFe\Versao1\WSDL\NFeConsultaDest12.vb" />
+    <Compile Include="NFe\Versao1\WSDL\NfeDownloadNF.vb" />
+    <Compile Include="NFe\Versao1\WSDL\NfeRecepcaoEvento.vb" />
+    <Compile Include="NFe\Versao1\WSDL\NFeRecepcaoEvento4.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\confRecebto_v1_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\consNFeDest_v1_01_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\distDFeInt_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\downloadNFe_v1_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\e210200_v1_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\e210210_v1_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\e210220_v1_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\e210240_v1_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\envConfRecebto_v1_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\leiauteConfRecebto_v1_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\leiauteConsNFeDest_v1_01_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\leiauteDownloadNFe_v1_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\procConfRecebtoNFe_v1_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\retconsNFeDest_v1_01_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\retDistDFeInt_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\retDownloadNFe_v1_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\retEnvConfRecebto_v1_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao1\XmlModel\tiposBasico_v1_03_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\WSDL\NFeRecepcaoEvento.vb" />
+    <Compile Include="NFe\Versao3\WSDL\CadConsultaCadastro2.vb" />
+    <Compile Include="NFe\Versao3\WSDL\NfeAutorizacao2.vb" />
+    <Compile Include="NFe\Versao3\WSDL\NfeConsulta.vb" />
+    <Compile Include="NFe\Versao3\WSDL\NfeConsulta2.vb" />
+    <Compile Include="NFe\Versao3\WSDL\NfeConsulta3.vb" />
+    <Compile Include="NFe\Versao3\WSDL\NfeInutilizacao2.vb" />
+    <Compile Include="NFe\Versao3\WSDL\NfeRetAutorizacao2.vb" />
+    <Compile Include="NFe\Versao3\WSDL\NfeStatusServico2.vb" />
+    <Compile Include="NFe\Versao3\WSDL\RecepcaoEvento2.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\consReciNFe_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\consSitNFe_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\consStatServ_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\enviNFe_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\inutNFe_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\leiauteConsSitNFe_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\leiauteConsStatServ_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\leiauteInutNFe_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\leiauteNFe_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\nfe_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\procInutNFe_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\procNFe_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\retConsReciNFe_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\retConsSitNFe_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\retConsStatServ_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\retEnviNFe_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\retInutNFe_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao3\XmlModel\tiposBasico_v3_10_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao4\WSDL\NFeConsultaProtocolo.vb" />
+    <Compile Include="NFe\Versao4\WSDL\NFeConsultaProtocolo2.vb" />
+    <Compile Include="NFe\Versao4\WSDL\NFeConsultaProtocolo3.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\consReciNFe_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\consSitNFe_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\enviNFe_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\inutNFe_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\leiauteConsSitNFe_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\leiauteConsStatServ_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\leiauteInutNFe_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\leiauteNFe_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\nfe_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\procInutNFe_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\procNFe_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\retConsReciNFe_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\retConsSitNFe_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\retConsStatServ_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\retEnviNFe_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\retInutNFe_v4_00.vb" />
+    <Compile Include="NFe\Versao4\XmlModel\tiposBasico_v4_00.vb" />
+    <Compile Include="NFSe\Versao1\WSDL\LoteNFe.vb" />
+    <Compile Include="NFSe\Versao1\XmlModel\PedidoConsultaCNPJ_v01.vb" />
+    <Compile Include="NFSe\Versao1\XmlModel\PedidoConsultaNFePeriodo_v01.vb" />
+    <Compile Include="NFSe\Versao1\XmlModel\RetornoConsultaCNPJ_v01.vb" />
+    <Compile Include="NFSe\Versao1\XmlModel\RetornoConsulta_v01.vb" />
+    <Compile Include="TraceExtension.vb" />
+    <Compile Include="XmlSefaz\WS-Sefaz.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NFe\Versao2\WSDL\NfeCancelamento2.vb" />
+    <Compile Include="NFe\Versao2\WSDL\NfeConsulta2.vb" />
+    <Compile Include="NFe\Versao2\WSDL\NfeInutilizacao2.vb" />
+    <Compile Include="NFe\Versao2\WSDL\NfeRecepcao2.vb" />
+    <Compile Include="NFe\Versao2\WSDL\NfeRetRecepcao2.vb" />
+    <Compile Include="NFe\Versao2\WSDL\NfeStatusServico2.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\cancNFe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\consCad_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\consReciNFe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\consSitNFe_v2_01_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\consStatServ_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\enviNFe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\inutNFe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\leiauteCancNFe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\leiauteConsSitNFe_v2_01_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\leiauteConsStatServ_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\leiauteConsultaCadastro_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\leiauteInutNFe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\leiauteNFe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\nfe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\procCancNFe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\procInutNFe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\procNFe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\tiposBasico_v1_03_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\retCancNFe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\retConsCad_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\retConsReciNFe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\retConsSitNFe_v2_01_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\retConsStatServ_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\retEnviNFe_v2_00_xmldsig-core-schema_v1_01.vb" />
+    <Compile Include="NFe\Versao2\XmlModel\retInutNFe_v2_00_xmldsig-core-schema_v1_01.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Cte\Versao3\XmlModel\xmldsig-core-schema_v1.01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\System.Xml.XmlNode.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="NFSe\Versao1\cSharp\WSDL\LoteNFe.cs" />
+    <Content Include="NFSe\Versao1\cSharp\XmlModel\PedidoConsultaNFePeriodo_v01.cs" />
+    <Content Include="NFSe\Versao1\cSharp\XmlModel\RetornoConsulta_v01.cs" />
+    <Content Include="XmlSefaz\WS-Sefaz.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\DSC-MD\DSC.NFe.MD.PainelControle\DSC.NFe.MD.PainelControle.vbproj">
+      <Project>{7fc4d582-d4c4-4327-9cd7-a87c8f65bf85}</Project>
+      <Name>DSC.NFe.MD.PainelControle</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DSC-MD\DSC.NFe.MD.Progress\DSC.NFe.MD.Progress.vbproj">
+      <Project>{c3d2ee60-0751-429f-9630-8eaef6b87414}</Project>
+      <Name>DSC.NFe.MD.Progress</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DSC-MD\DSC.NFe.MD.Registry\DSC.NFe.MD.Registry.vbproj">
+      <Project>{978d5986-fef9-4d67-bf0c-558ed689d1e2}</Project>
+      <Name>DSC.NFe.MD.Registry</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DSC.EmailProtocol\DSC.EmailProtocol.vbproj">
+      <Project>{9fe22218-e11e-4490-a216-2d4a859d3db4}</Project>
+      <Name>DSC.EmailProtocol</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DSC.NFe.Log\DSC.NFe.Log.vbproj">
+      <Project>{d51f5a20-9681-4017-bd3f-207613c0c272}</Project>
+      <Name>DSC.NFe.Log</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,149 @@
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.AppSolicitacaoEvento.exe
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.AppSolicitacaoEvento.pdb
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.AppSolicitacaoEvento.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Log.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\pgManifesto.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\Progress.o4glrt.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.Cryptography.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\Progress.Messages.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Log.pdb
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Log.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.pdb
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.Cryptography.pdb
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.Cryptography.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbprojResolveAssemblyReference.cache
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.Resources.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbproj.GenerateResource.Cache
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.exe
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbprojResolveAssemblyReference.cache
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.Resources.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbproj.GenerateResource.Cache
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.xml
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbprojResolveAssemblyReference.cache
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.Resources.resources
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbproj.GenerateResource.Cache
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.AppSolicitacaoEvento.exe
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.AppSolicitacaoEvento.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.AppSolicitacaoEvento.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Log.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Progress.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Registry.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\pgManifesto.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\Progress.o4glrt.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.Cryptography.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\Progress.Messages.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Log.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Log.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Progress.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Progress.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Registry.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Registry.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.Cryptography.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.Cryptography.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbprojResolveAssemblyReference.cache
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.Resources.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbproj.GenerateResource.Cache
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.exe
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.AppSolicitacaoEvento.exe
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.AppSolicitacaoEvento.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.AppSolicitacaoEvento.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Log.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\pgManifesto.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\Progress.o4glrt.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.Cryptography.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\Progress.Messages.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Log.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Log.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.Cryptography.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.Cryptography.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.Resources.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbproj.GenerateResource.Cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.exe
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.AppSolicitacaoEvento.exe
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.AppSolicitacaoEvento.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.AppSolicitacaoEvento.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.dll.config
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbproj.CopyComplete
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.exe
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.AppSolicitacaoEvento.exe
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.AppSolicitacaoEvento.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.AppSolicitacaoEvento.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.Sefaz.dll.config
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\bin\Debug\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.vbproj.CopyComplete
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.exe
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppSolicitacaoEvento\obj\Debug\DSC.NFe.MD.AppSolicitacaoEvento.pdb

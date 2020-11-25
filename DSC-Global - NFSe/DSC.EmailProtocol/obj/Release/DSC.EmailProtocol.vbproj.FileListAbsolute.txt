@@ -1,0 +1,45 @@
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.Resources.resources
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\bin\Release\DSC.EmailProtocol.dll
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\bin\Release\DSC.EmailProtocol.pdb
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\bin\Release\DSC.EmailProtocol.xml
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.Resources.resources
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.vbproj.GenerateResource.Cache
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.dll
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.xml
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.pdb
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\bin\Release\DSC.EmailProtocol.dll
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\bin\Release\DSC.EmailProtocol.pdb
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\bin\Release\DSC.EmailProtocol.xml
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\ResolveAssemblyReference.cache
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\GenerateResource.read.1.tlog
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\GenerateResource.write.1.tlog
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.dll
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.xml
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\bin\Release\DSC.EmailProtocol.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\bin\Release\DSC.EmailProtocol.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\bin\Release\DSC.EmailProtocol.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.Resources.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.vbproj.GenerateResource.Cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\bin\Release\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\bin\Release\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\bin\Release\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\bin\Release\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\bin\Release\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\bin\Release\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\obj\Release\DSC.EmailProtocol.pdb

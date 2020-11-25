@@ -1,0 +1,245 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DSC.NFe.MD.AppBuscaNFSeSP
+</name>
+</assembly>
+<members>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DSC.NFe.MD.AppBuscaNFSeSP.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DSC.NFe.MD.AppBuscaNFSeSP.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.#ctor">
+<remarks/>
+</member>
+<member name="E:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.EnvioRPSCompleted">
+<remarks/>
+</member>
+<member name="E:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.EnvioLoteRPSCompleted">
+<remarks/>
+</member>
+<member name="E:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.TesteEnvioLoteRPSCompleted">
+<remarks/>
+</member>
+<member name="E:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.CancelamentoNFeCompleted">
+<remarks/>
+</member>
+<member name="E:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaNFeCompleted">
+<remarks/>
+</member>
+<member name="E:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaNFeRecebidasCompleted">
+<remarks/>
+</member>
+<member name="E:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaNFeEmitidasCompleted">
+<remarks/>
+</member>
+<member name="E:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaLoteCompleted">
+<remarks/>
+</member>
+<member name="E:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaInformacoesLoteCompleted">
+<remarks/>
+</member>
+<member name="E:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaCNPJCompleted">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.EnvioRPS(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.EnvioRPSAsync(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.EnvioRPSAsync(System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.EnvioLoteRPS(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.EnvioLoteRPSAsync(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.EnvioLoteRPSAsync(System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.TesteEnvioLoteRPS(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.TesteEnvioLoteRPSAsync(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.TesteEnvioLoteRPSAsync(System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.CancelamentoNFe(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.CancelamentoNFeAsync(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.CancelamentoNFeAsync(System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaNFe(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaNFeAsync(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaNFeAsync(System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaNFeRecebidas(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaNFeRecebidasAsync(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaNFeRecebidasAsync(System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaNFeEmitidas(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaNFeEmitidasAsync(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaNFeEmitidasAsync(System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaLote(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaLoteAsync(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaLoteAsync(System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaInformacoesLote(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaInformacoesLoteAsync(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaInformacoesLoteAsync(System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaCNPJ(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaCNPJAsync(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.ConsultaCNPJAsync(System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.LoteNFe.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.EnvioRPSCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.EnvioRPSCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.EnvioRPSCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.EnvioLoteRPSCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.EnvioLoteRPSCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.EnvioLoteRPSCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.TesteEnvioLoteRPSCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.TesteEnvioLoteRPSCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.TesteEnvioLoteRPSCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.CancelamentoNFeCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.CancelamentoNFeCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.CancelamentoNFeCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaNFeCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaNFeCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaNFeCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaNFeRecebidasCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaNFeRecebidasCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaNFeRecebidasCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaNFeEmitidasCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaNFeEmitidasCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaNFeEmitidasCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaLoteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaLoteCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaLoteCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaInformacoesLoteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaInformacoesLoteCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaInformacoesLoteCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaCNPJCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaCNPJCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:DSC.NFe.MD.AppBuscaNFSeSP.br.gov.sp.prefeitura.nfe.ConsultaCNPJCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

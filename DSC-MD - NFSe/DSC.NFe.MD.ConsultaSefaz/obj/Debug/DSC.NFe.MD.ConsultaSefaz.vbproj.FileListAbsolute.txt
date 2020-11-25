@@ -1,0 +1,74 @@
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.ConsultaSefaz.exe.config
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.ConsultaSefaz.exe
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.ConsultaSefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.ConsultaSefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.PainelControle.exe
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.Sefaz.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.Sefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.Sefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.Sefaz.dll.config
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.PainelControle.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.PainelControle.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.vbproj.CopyComplete
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.exe
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.ConsultaSefaz.exe.config
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.ConsultaSefaz.exe
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.ConsultaSefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.ConsultaSefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.PainelControle.exe
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.Sefaz.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.Sefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.Sefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.Sefaz.dll.config
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.PainelControle.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.PainelControle.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\bin\Debug\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.vbproj.CopyComplete
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.exe
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.ConsultaSefaz\obj\Debug\DSC.NFe.MD.ConsultaSefaz.pdb

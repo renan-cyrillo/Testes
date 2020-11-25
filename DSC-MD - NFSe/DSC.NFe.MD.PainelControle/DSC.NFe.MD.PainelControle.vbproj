@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7FC4D582-D4C4-4327-9CD7-A87C8F65BF85}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>DSC.NFe.MD.PainelControle.My.MyApplication</StartupObject>
+    <RootNamespace>DSC.NFe.MD.PainelControle</RootNamespace>
+    <AssemblyName>DSC.NFe.MD.PainelControle</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DSC.NFe.MD.PainelControle.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DefineConstants>DEMO=False</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DSC.NFe.MD.PainelControle.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>dkp.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEMO=False</DefineConstants>
+    <DocumentationFile>DSC.NFe.MD.PainelControle.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\DSC.NFe.MD.PainelControle.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DSC.NFe.MD.PainelControle.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\DSC.NFe.MD.PainelControle.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Outlook, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\packages\Microsoft.Office.Interop.Outlook.15.0.4797.1003\lib\net20\Microsoft.Office.Interop.Outlook.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Progress.o4glrt, Version=10.2.2.1699, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DSC.NFe.MD.Progress\bin\Debug\Progress.o4glrt.dll</HintPath>
+    </Reference>
+    <Reference Include="Progress.ssl, Version=10.1.0.21006, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DSC-Global\DLL Progress\Progress.ssl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\CNPJ_CPF.vb" />
+    <Compile Include="Forms\frmCheckListNew.Designer.vb">
+      <DependentUpon>frmCheckListNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCheckListNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConfiguracaoProgress.Designer.vb">
+      <DependentUpon>frmConfiguracaoProgress.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConfiguracaoProgress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConfiguracaoSMTP.Designer.vb">
+      <DependentUpon>frmConfiguracaoSMTP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConfiguracaoSMTP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConfiguracoes.Designer.vb">
+      <DependentUpon>frmConfiguracoes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConfiguracoes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMDConfiguracoes.Designer.vb">
+      <DependentUpon>frmMDConfiguracoes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMDConfiguracoes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmImportarExportarRegistro.Designer.vb">
+      <DependentUpon>frmImportarExportarRegistro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmImportarExportarRegistro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInstalaCertificado.Designer.vb">
+      <DependentUpon>frmInstalaCertificado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInstalaCertificado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmNovoCNPJ.Designer.vb">
+      <DependentUpon>frmNovoCNPJ.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmNovoCNPJ.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPainelControle.Designer.vb">
+      <DependentUpon>frmPainelControle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPainelControle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSelecaoCertificadoDigital.Designer.vb">
+      <DependentUpon>frmSelecaoCertificadoDigital.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSelecaoCertificadoDigital.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\uctlItemCheckList.Designer.vb">
+      <DependentUpon>uctlItemCheckList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\uctlItemCheckList.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Module\PainelControle.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ResourceImages.Designer.vb">
+      <DependentUpon>ResourceImages.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\frmCheckListNew.resx">
+      <DependentUpon>frmCheckListNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConfiguracaoProgress.resx">
+      <DependentUpon>frmConfiguracaoProgress.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConfiguracaoSMTP.resx">
+      <DependentUpon>frmConfiguracaoSMTP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConfiguracoes.resx">
+      <DependentUpon>frmConfiguracoes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMDConfiguracoes.resx">
+      <DependentUpon>frmMDConfiguracoes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmImportarExportarRegistro.resx">
+      <DependentUpon>frmImportarExportarRegistro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInstalaCertificado.resx">
+      <DependentUpon>frmInstalaCertificado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmNovoCNPJ.resx">
+      <DependentUpon>frmNovoCNPJ.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPainelControle.resx">
+      <DependentUpon>frmPainelControle.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSelecaoCertificadoDigital.resx">
+      <DependentUpon>frmSelecaoCertificadoDigital.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\uctlItemCheckList.resx">
+      <DependentUpon>uctlItemCheckList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResourceImages.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ResourceImages.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dkp.ico" />
+    <Content Include="DSC.ico" />
+    <Content Include="Image\AdicionaCNPJ.png" />
+    <Content Include="Image\ButtonDelete.png" />
+    <Content Include="Image\ButtonError.png" />
+    <Content Include="Image\ButtonExclamation.png" />
+    <Content Include="Image\ButtonHelp.png" />
+    <Content Include="Image\ButtonInformation.png" />
+    <Content Include="Image\ButtonOK.png" />
+    <Content Include="Image\CertificadoDigital.png" />
+    <Content Include="Image\CheckList.png" />
+    <Content Include="Image\ConfiguraEmail.png" />
+    <Content Include="Image\Configurações.png" />
+    <Content Include="Image\done.png" />
+    <Content Include="Image\DSC.ico" />
+    <Content Include="Image\DSC_Button_Erro.png" />
+    <Content Include="Image\DSC_Button_OK.png" />
+    <Content Include="Image\erro.png" />
+    <Content Include="Image\Folder.png" />
+    <Content Include="Image\FolderDownload.png" />
+    <Content Include="Image\FolderError.png" />
+    <Content Include="Image\FolderFinished.png" />
+    <Content Include="Image\FolderNFe.png" />
+    <Content Include="Image\FolderOK.png" />
+    <Content Include="Image\FolderProgress.png" />
+    <Content Include="Image\FolderTrash.png" />
+    <Content Include="Image\FolderZip.png" />
+    <Content Include="Image\InstalacaoCertificadoDigital.png" />
+    <Content Include="Image\Logo DSC 1.png" />
+    <Content Include="Image\Logo DSC.png" />
+    <Content Include="Image\Logo RA 1.png" />
+    <Content Include="Image\Logo RA 2.png" />
+    <Content Include="Image\Logo RA 3.png" />
+    <Content Include="Image\Logo RA.ico" />
+    <Content Include="Image\Logo RA.png" />
+    <Content Include="Image\PainelControle.png" />
+    <Content Include="Image\Progress.gif" />
+    <Content Include="Image\System-Registry-icon.png" />
+    <None Include="Image\Logo RA Oficial Pequeno.png" />
+    <None Include="Image\logo-recebimentoauto0.jpg" />
+    <None Include="Image\Fundo.png" />
+    <Content Include="Resources\done.png" />
+    <Content Include="Resources\erro.png" />
+    <Content Include="Resources\loading.gif" />
+    <Content Include="Resources\Mais.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\DSC-Global\DSC.Cryptography\DSC.Cryptography.vbproj">
+      <Project>{BDFED66F-6EFF-4C85-AD0E-597A14499F23}</Project>
+      <Name>DSC.Cryptography</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DSC-Global\DSC.EmailProtocol\DSC.EmailProtocol.vbproj">
+      <Project>{9FE22218-E11E-4490-A216-2D4A859D3DB4}</Project>
+      <Name>DSC.EmailProtocol</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DSC.NFe.MD.Progress\DSC.NFe.MD.Progress.vbproj">
+      <Project>{C3D2EE60-0751-429F-9630-8EAEF6B87414}</Project>
+      <Name>DSC.NFe.MD.Progress</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DSC.NFe.MD.Registry\DSC.NFe.MD.Registry.vbproj">
+      <Project>{978D5986-FEF9-4D67-BF0C-558ED689D1E2}</Project>
+      <Name>DSC.NFe.MD.Registry</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

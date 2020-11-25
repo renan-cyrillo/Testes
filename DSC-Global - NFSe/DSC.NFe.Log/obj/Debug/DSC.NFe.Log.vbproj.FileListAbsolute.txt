@@ -1,0 +1,27 @@
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.NFe.Log\bin\Debug\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.NFe.Log\bin\Debug\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.NFe.Log\bin\Debug\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Resources.resources
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Log.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Log.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\bin\Debug\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\bin\Debug\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\bin\Debug\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Log.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\bin\Debug\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\bin\Debug\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\bin\Debug\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Log.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Log.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\obj\Debug\DSC.NFe.Log.vbprojAssemblyReference.cache

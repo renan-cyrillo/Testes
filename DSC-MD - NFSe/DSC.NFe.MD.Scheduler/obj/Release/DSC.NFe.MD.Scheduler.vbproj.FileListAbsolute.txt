@@ -1,0 +1,32 @@
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\bin\Release\DSC.NFe.MD.Scheduler.exe
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\bin\Release\DSC.NFe.MD.Scheduler.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\bin\Release\DSC.NFe.MD.Scheduler.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\bin\Release\Microsoft.Win32.TaskScheduler.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.vbprojResolveAssemblyReference.cache
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.frmAuthentication.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.Resources.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.vbproj.GenerateResource.Cache
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.exe
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\bin\Release\DSC.NFe.MD.Scheduler.exe
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\bin\Release\DSC.NFe.MD.Scheduler.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\bin\Release\DSC.NFe.MD.Scheduler.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\bin\Release\Microsoft.Win32.TaskScheduler.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.frmAuthentication.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.Resources.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.vbproj.GenerateResource.Cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.exe
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.exe
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Scheduler\bin\Release\DSC.NFe.MD.Scheduler.exe
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Scheduler\bin\Release\DSC.NFe.MD.Scheduler.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Scheduler\bin\Release\DSC.NFe.MD.Scheduler.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Scheduler\bin\Release\Microsoft.Win32.TaskScheduler.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.frmAuthentication.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Scheduler\obj\Release\DSC.NFe.MD.Scheduler.vbprojResolveAssemblyReference.cache

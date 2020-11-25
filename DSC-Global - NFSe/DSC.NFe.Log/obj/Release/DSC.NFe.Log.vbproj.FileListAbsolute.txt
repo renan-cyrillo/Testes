@@ -1,0 +1,44 @@
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\bin\Release\DSC.NFe.Log.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\bin\Release\DSC.NFe.Log.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\bin\Release\DSC.NFe.Log.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Resources.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.pdb
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\bin\Release\DSC.NFe.Log.dll
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\bin\Release\DSC.NFe.Log.pdb
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\bin\Release\DSC.NFe.Log.xml
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Resources.resources
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.vbproj.GenerateResource.Cache
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.dll
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.xml
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.pdb
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\ResolveAssemblyReference.cache
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\GenerateResource.read.1.tlog
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\GenerateResource.write.1.tlog
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\bin\Release\DSC.NFe.Log.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\bin\Release\DSC.NFe.Log.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\bin\Release\DSC.NFe.Log.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Resources.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.vbproj.GenerateResource.Cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\bin\Release\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\bin\Release\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\bin\Release\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\bin\Release\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\bin\Release\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\bin\Release\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.NFe.Log\obj\Release\DSC.NFe.Log.pdb

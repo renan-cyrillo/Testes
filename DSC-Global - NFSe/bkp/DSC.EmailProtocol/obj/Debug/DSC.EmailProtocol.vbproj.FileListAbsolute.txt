@@ -1,0 +1,3 @@
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.Resources.resources
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.vbproj.GenerateResource.Cache

@@ -1,0 +1,363 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DSC.EmailProtocol
+</name>
+</assembly>
+<members>
+<member name="M:DSC.EmailProtocol.OUTLOOKClient.downloadAttachments(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Conecta a uma pasta do outlook e baixa todos os e-mails e anexos contidos na pasta
+ </summary>
+	<param name="OutlookInboxFolderPath">A pasta do Outlook de onde serão extraídos os e-mails.
+  Ex.: Conta abc@empresa.com.br, Pasta Inbox =&gt; '\\abc@empresa.com.br\inbox'
+ </param>
+	<param name="outlookBackupFolderPath">A pasta do Outlook para onde serão movidos os e-mails baixados.
+  Ex.: Conta abc@empresa.com.br, Pasta Backup =&gt; '\\abc@empresa.com.br\backup'
+     Caso este parâmetro não seja fornecido, o e-mail será apagado.</param>
+	<param name="systemFolderToSaveAttachments">Pasta do computador ou da rede onde serão gravados os anexos baixados</param>
+	<param name="systemFolderToSaveEML">Pasta do computador ou da rede onde serão gravados os arquivos de e-mail (EML) baixados OPCIONAL.</param>
+	<param name="attachmentFilePrefix">Prefixo a ser concatenado ao nome do anexo - OPCIONAL</param>
+	<param name="emlFilePrefix">Prefixo a ser concatenado ao nome do arquivo (EML) - OPCIONAL</param>
+	<param name="attachmentFileSufix">Sufixo a ser concatenado ao nome do anexo - OPCIONAL</param>
+	<param name="emlFileSufix">Sufixo a ser concatenado ao nome do anexo - OPCIONAL</param>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DSC.EmailProtocol.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DSC.EmailProtocol.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:DSC.EmailProtocol.SMTPClient">
+	<summary>
+ Classe com métodos para envio de e-mail via SMTP
+ </summary>
+</member><member name="P:DSC.EmailProtocol.IEmailClient.host">
+	<summary>
+ The host internet address.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.IEmailClient.port">
+	<summary>
+ The server port to connect to
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.IEmailClient.user">
+	<summary>
+ The e-mail account user to log in
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.IEmailClient.pass">
+	<summary>
+ The e-mail account password to log in
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.IEmailClient.SSL">
+	<summary>
+ set if the server requires SSL security or not
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.IEmailClient.enableLog">
+	<summary>
+ Enables or disables the LOG functionality
+ </summary>
+	<value>True enable the LOG
+ False disable the LOG
+ </value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IEmailClient.connectAndLogin">
+	<summary>
+ Connects to the server an log in using HOST, PORT, USER, PASS and SSL specified
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IEmailClient.createNewFolder(System.String)">
+	<summary>
+ Create a new folder on the IMAP server.
+ </summary>
+	<param name="folderName">CASE SENSITIVE
+ The name of the folder to be created.
+ This name must or not be absolute. Depending of the server.
+ The folder's name separator is the '.' character. ex: INBOX.folderName
+ </param>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IEmailClient.isConnected">
+	<summary>
+ Verify if this client is connected to the server.
+ </summary>
+	<returns>Returns TRUE if the user is connected to the server and FALSE if the user is NOT connected</returns>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IEmailClient.isLoggedIn">
+	<summary>
+ Verify if the client is connected to the server and logged in
+ </summary>
+	<returns>Returns TRUE if the user is logged in and FALSE if the user is NOT logged in</returns>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IEmailClient.logout">
+	<summary>
+ Log out from the server
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IEmailClient.moveMessageToFolder(System.String,System.String)">
+	<summary>
+ Move messages between folders
+ </summary>
+	<param name="MessageUID">Message UID (Unique ID assigned to the message) to be moved. CASE SENSITIVE</param>
+	<param name="folderName">CASE SENSITIVE
+ Folder name to move the message To</param>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IEmailClient.deleteMessage(System.String)">
+	<summary>
+ Delete a message from the server
+ If you are using a POP client, you need to logout to the DELETE command take effect on next time ou login
+ </summary>
+	<param name="MessageUID">UID (Unique ID assigned to the message) to be deleted</param>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IEmailClient.getAllMessagesUID">
+	<summary>
+ Returns an array of String containing all messages UID on the server
+ </summary>
+	<returns>A array of String containing the messages UID </returns>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IEmailClient.getMessage(System.String)">
+	<summary>
+ Return a IMAP.email object containing informations about the message
+ </summary>
+	<param name="UID">The message UID(Unique ID assigned to the message) to get</param>
+	<returns>A IMAP.email object filled with message info.</returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.IMAPClient.host">
+	<summary>
+ The host internet address. Like 'imap.gmail.com'
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.IMAPClient.port">
+	<summary>
+ The server port to connect to
+ </summary>
+	<value>Default 993</value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.IMAPClient.user">
+	<summary>
+ The e-mail account user to log in
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.IMAPClient.pass">
+	<summary>
+ The e-mail account password to log in
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.IMAPClient.SSL">
+	<summary>
+ set if the server requires SSL security or not
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.IMAPClient.enableLog">
+	<summary>
+ Enables or disables the LOG functionality
+ </summary>
+	<value>True enable the LOG
+ False disable the LOG
+ </value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IMAPClient.connectAndLogin">
+	<summary>
+ Connects to the server an log in using HOST, PORT, USER, PASS and SSL specified
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IMAPClient.createNewFolder(System.String)">
+	<summary>
+ Create a new folder on the IMAP server.
+ </summary>
+	<param name="folderName">CASE SENSITIVE
+ The name of the folder to be created.
+ This name must or not be absolute. Depending of the server.
+ The folder's name separator is the '.' character. ex: INBOX.folderName
+ </param>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IMAPClient.isConnected">
+	<summary>
+ Verify if this client is connected to the server.
+ </summary>
+	<returns>Returns TRUE if the user is connected to the server and FALSE if the user is NOT connected</returns>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IMAPClient.isLoggedIn">
+	<summary>
+ Verify if the client is connected to the server and logged in
+ </summary>
+	<returns>Returns TRUE if the user is logged in and FALSE if the user is NOT logged in</returns>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IMAPClient.logout">
+	<summary>
+ Log out from the server
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IMAPClient.moveMessageToFolder(System.String,System.String)">
+	<summary>
+ Move messages between folders
+ </summary>
+	<param name="MessageUID">Message UID (Unique ID assigned to the message) to be moved. CASE SENSITIVE</param>
+	<param name="folderName">CASE SENSITIVE
+ Folder name to move the message To</param>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IMAPClient.deleteMessage(System.String)">
+	<summary>
+ Delete a message from the server
+ </summary>
+	<param name="MessageUID">UID (Unique ID assigned to the message) to be deleted</param>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IMAPClient.getAllMessagesUID">
+	<summary>
+ Returns an array of String containing all messages UID on the server
+ </summary>
+	<returns>A array of String containing the messages UID </returns>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.IMAPClient.getMessage(System.String)">
+	<summary>
+ Return a DSCMail.EmailMessage object containing informations about the message
+ </summary>
+	<param name="UID">The message UID(Unique ID assigned to the message) to get</param>
+	<returns>A DSCMail.EmailMessage object filled with message info.</returns>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.Attachment.saveToFile(System.String,System.Boolean)">
+	<summary>
+ Saves the attachment to a file on disc
+ </summary>
+	<param name="fileName">The path + name of the file to be saved</param>
+	<param name="overwrite">Overwrites the existing file if exists</param>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.POPClient.host">
+	<summary>
+ The host internet address. Like 'pop.gmail.com'
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.POPClient.port">
+	<summary>
+ The server port to connect to
+ </summary>
+	<value>Default 110</value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.POPClient.user">
+	<summary>
+ The e-mail account user to log in
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.POPClient.pass">
+	<summary>
+ The e-mail account password to log in
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.POPClient.SSL">
+	<summary>
+ set if the server requires SSL security or not
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DSC.EmailProtocol.POPClient.enableLog">
+	<summary>
+ Enables or disables the LOG functionality
+ </summary>
+	<value>True enable the LOG
+ False disable the LOG
+ </value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.POPClient.connectAndLogin">
+	<summary>
+ Connects to the server an log in using HOST, PORT, USER, PASS and SSL specified
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.POPClient.createNewFolder(System.String)">
+	<summary>
+ Create a new folder on the POP server.
+ </summary>
+	<param name="folderName">CASE SENSITIVE
+ The name of the folder to be created.
+ This name must or not be absolute. Depending of the server.
+ The folder's name separator is the '.' character. ex: INBOX.folderName
+ </param>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.POPClient.isConnected">
+	<summary>
+ Verify if this client is connected to the server.
+ </summary>
+	<returns>Returns TRUE if the user is connected to the server and FALSE if the user is NOT connected</returns>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.POPClient.isLoggedIn">
+	<summary>
+ Verify if the client is connected to the server and logged in
+ </summary>
+	<returns>Returns TRUE if the user is logged in and FALSE if the user is NOT logged in</returns>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.POPClient.logout">
+	<summary>
+ Log out from the server
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.POPClient.moveMessageToFolder(System.String,System.String)">
+	<summary>
+ Move messages between folders
+ </summary>
+	<param name="MessageUID">Message UID (Unique ID assigned to the message) to be moved. CASE SENSITIVE</param>
+	<param name="folderName">CASE SENSITIVE
+ Folder name to move the message To</param>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.POPClient.deleteMessage(System.String)">
+	<summary>
+ Delete a message from the server
+ You need to logout alter the DELETE command to it take effect on next time ou login
+ </summary>
+	<param name="MessageUID">UID (Unique ID assigned to the message) to be deleted</param>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.POPClient.getAllMessagesUID">
+	<summary>
+ Returns an array of String containing all messages UID on the server
+ </summary>
+	<returns>A array of String containing the messages UID </returns>
+	<remarks></remarks>
+</member><member name="M:DSC.EmailProtocol.POPClient.getMessage(System.String)">
+	<summary>
+ Return a DSCMail.EmailMessage object containing informations about the message
+ </summary>
+	<param name="UID">The message UID(Unique ID assigned to the message) to get</param>
+	<returns>A DSCMail.EmailMessage object filled with message info.</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,89 @@
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.AppBuscaCTe.exe
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.AppBuscaCTe.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.AppBuscaCTe.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Sefaz.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Sefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Sefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.exe
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.AppBuscaCTe.exe.config
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.AppBuscaCTe.exe
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.AppBuscaCTe.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.AppBuscaCTe.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Sefaz.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Sefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Sefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Sefaz.dll.config
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.vbproj.CopyComplete
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.exe
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.AppBuscaCTe.exe.config
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.AppBuscaCTe.exe
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.AppBuscaCTe.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.AppBuscaCTe.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Sefaz.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Sefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Sefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.Sefaz.dll.config
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\bin\Debug\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.vbproj.CopyComplete
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.exe
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.AppBuscaCTe\obj\Debug\DSC.NFe.MD.AppBuscaCTe.pdb

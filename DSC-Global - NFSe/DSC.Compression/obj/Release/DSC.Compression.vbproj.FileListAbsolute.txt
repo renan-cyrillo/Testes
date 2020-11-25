@@ -1,0 +1,29 @@
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Release\DSC.Compression.dll
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Release\DSC.Compression.pdb
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Release\DSC.Compression.xml
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.Resources.resources
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.ZipResource.resources
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.vbproj.GenerateResource.Cache
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.dll
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.xml
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.pdb
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Release\DSC.Compression.dll
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Release\DSC.Compression.pdb
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Release\DSC.Compression.xml
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\ResolveAssemblyReference.cache
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.Resources.resources
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.ZipResource.resources
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\GenerateResource.read.1.tlog
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\GenerateResource.write.1.tlog
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.dll
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.xml
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Release\DSC.Compression.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Release\DSC.Compression.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Release\DSC.Compression.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.Resources.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.ZipResource.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.vbproj.GenerateResource.Cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Release\DSC.Compression.pdb

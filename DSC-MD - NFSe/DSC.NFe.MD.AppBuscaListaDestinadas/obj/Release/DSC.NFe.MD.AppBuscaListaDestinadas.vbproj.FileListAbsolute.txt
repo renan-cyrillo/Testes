@@ -1,0 +1,84 @@
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.AppBuscaListaDestinadas.exe
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.AppBuscaListaDestinadas.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.AppBuscaListaDestinadas.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Log.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Progress.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Registry.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Sefaz.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\pgManifesto.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\Progress.Messages.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\Progress.o4glrt.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\Progress.ssl.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.Cryptography.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Log.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Log.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Sefaz.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Sefaz.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Progress.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Progress.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Registry.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Registry.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.Cryptography.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.Cryptography.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.vbprojResolveAssemblyReference.cache
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.Resources.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.vbproj.GenerateResource.Cache
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.exe
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.exe
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.AppBuscaListaDestinadas.exe
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.AppBuscaListaDestinadas.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.AppBuscaListaDestinadas.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Log.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Progress.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Registry.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Sefaz.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\pgManifesto.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\Progress.Messages.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\Progress.o4glrt.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\Progress.ssl.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.Cryptography.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Log.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Log.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Sefaz.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Sefaz.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Progress.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Progress.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Registry.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Registry.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.Cryptography.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.Cryptography.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.vbprojResolveAssemblyReference.cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.Resources.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.exe
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\obj\Release\DSC.NFe.MD.AppBuscaListaDestinadas.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.AppBuscaListaDestinadas.exe
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.AppBuscaListaDestinadas.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.AppBuscaListaDestinadas.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Sefaz.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\Progress.ssl.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Sefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.Sefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBuscaListaDestinadas\bin\Release\DSC.Cryptography.xml

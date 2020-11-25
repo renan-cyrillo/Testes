@@ -1,0 +1,27 @@
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.Resources.resources
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.EmailProtocol\bin\Debug\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.EmailProtocol\bin\Debug\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.EmailProtocol\bin\Debug\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\bin\Debug\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\bin\Debug\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\bin\Debug\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\bin\Debug\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\bin\Debug\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\bin\Debug\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.EmailProtocol\obj\Debug\DSC.EmailProtocol.vbprojAssemblyReference.cache

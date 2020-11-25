@@ -1,0 +1,251 @@
+<nfeProc versao="3.10" xmlns="http://www.portalfiscal.inf.br/nfe">
+  <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe Id="NFe35170774302290000164550000000064491008111084" versao="3.10">
+      <ide>
+        <cUF>35</cUF>
+        <cNF>00811108</cNF>
+        <natOp>VENDA DE PRODUCAO DO ESTABELECIMENT</natOp>
+        <indPag>1</indPag>
+        <mod>55</mod>
+        <serie>0</serie>
+        <nNF>6449</nNF>
+        <dhEmi>2017-07-16T07:37:00-03:00</dhEmi>
+        <dhSaiEnt>2017-07-16T07:37:00-03:00</dhSaiEnt>
+        <tpNF>1</tpNF>
+        <idDest>1</idDest>
+        <cMunFG>3504701</cMunFG>
+        <tpImp>1</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>4</cDV>
+        <tpAmb>1</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>0</indFinal>
+        <indPres>9</indPres>
+        <procEmi>0</procEmi>
+        <verProc>2.69</verProc>
+      </ide>
+      <emit>
+        <CNPJ>74302290000164</CNPJ>
+        <xNome>NATURALE ALIMENTOS LTDA</xNome>
+        <xFant>NATURE ALIMENTOS</xFant>
+        <enderEmit>
+          <xLgr>RUA RUI BARBOSA</xLgr>
+          <nro>555</nro>
+          <xBairro>CENTRO</xBairro>
+          <cMun>3504701</cMun>
+          <xMun>BALBINOS</xMun>
+          <UF>SP</UF>
+          <CEP>16640000</CEP>
+          <cPais>1058</cPais>
+          <xPais>BRASIL</xPais>
+          <fone>1435839955</fone>
+        </enderEmit>
+        <IE>196000550119</IE>
+        <CRT>3</CRT>
+      </emit>
+      <dest>
+        <CNPJ>65943078000195</CNPJ>
+        <xNome>GL FOODS WORLDWIDE LTDA</xNome>
+        <enderDest>
+          <xLgr>R UMBUZEIRO</xLgr>
+          <nro>123</nro>
+          <xCpl>ANEXO 110 ANEXO CONT RUA AREIAL 440</xCpl>
+          <xBairro>CUMBICA</xBairro>
+          <cMun>3518800</cMun>
+          <xMun>GUARULHOS</xMun>
+          <UF>SP</UF>
+          <CEP>07224010</CEP>
+          <cPais>1058</cPais>
+          <xPais>BRASIL</xPais>
+          <fone>1124875400</fone>
+        </enderDest>
+        <indIEDest>1</indIEDest>
+        <IE>336347810110</IE>
+        <email>Nfe_br@glfoods.ind.br;marceloansanely@hotmail.com</email>
+      </dest>
+      <det nItem="1">
+        <prod>
+          <cProd>000049</cProd>
+          <cEAN />
+          <xProd>TOMATE CORTE 10X10 C/ PELE E S</xProd>
+          <NCM>07020000</NCM>
+          <CFOP>5101</CFOP>
+          <uCom>KG</uCom>
+          <qCom>3630.0000</qCom>
+          <vUnCom>3.50000000</vUnCom>
+          <vProd>12705.00</vProd>
+          <cEANTrib />
+          <uTrib>KG</uTrib>
+          <qTrib>3630.0000</qTrib>
+          <vUnTrib>3.50000000</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS20>
+              <orig>0</orig>
+              <CST>20</CST>
+              <modBC>3</modBC>
+              <pRedBC>33.3300</pRedBC>
+              <vBC>8470.42</vBC>
+              <pICMS>18.0000</pICMS>
+              <vICMS>1524.68</vICMS>
+            </ICMS20>
+          </ICMS>
+          <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+              <CST>53</CST>
+            </IPINT>
+          </IPI>
+          <PIS>
+            <PISNT>
+              <CST>06</CST>
+            </PISNT>
+          </PIS>
+          <COFINS>
+            <COFINSNT>
+              <CST>06</CST>
+            </COFINSNT>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>000049</cProd>
+          <cEAN />
+          <xProd>TOMATE CORTE 10X10 C/ PELE E S</xProd>
+          <NCM>07020000</NCM>
+          <CFOP>5101</CFOP>
+          <uCom>KG</uCom>
+          <qCom>420.0000</qCom>
+          <vUnCom>3.50000000</vUnCom>
+          <vProd>1470.00</vProd>
+          <cEANTrib />
+          <uTrib>KG</uTrib>
+          <qTrib>420.0000</qTrib>
+          <vUnTrib>3.50000000</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS20>
+              <orig>0</orig>
+              <CST>20</CST>
+              <modBC>3</modBC>
+              <pRedBC>33.3300</pRedBC>
+              <vBC>980.05</vBC>
+              <pICMS>18.0000</pICMS>
+              <vICMS>176.40</vICMS>
+            </ICMS20>
+          </ICMS>
+          <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+              <CST>53</CST>
+            </IPINT>
+          </IPI>
+          <PIS>
+            <PISNT>
+              <CST>06</CST>
+            </PISNT>
+          </PIS>
+          <COFINS>
+            <COFINSNT>
+              <CST>06</CST>
+            </COFINSNT>
+          </COFINS>
+        </imposto>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>9450.47</vBC>
+          <vICMS>1701.08</vICMS>
+          <vICMSDeson>0</vICMSDeson>
+          <vFCPUFDest>0</vFCPUFDest>
+          <vICMSUFDest>0</vICMSUFDest>
+          <vICMSUFRemet>0</vICMSUFRemet>
+          <vBCST>0</vBCST>
+          <vST>0</vST>
+          <vProd>14175.00</vProd>
+          <vFrete>0</vFrete>
+          <vSeg>0</vSeg>
+          <vDesc>0</vDesc>
+          <vII>0</vII>
+          <vIPI>0</vIPI>
+          <vPIS>0</vPIS>
+          <vCOFINS>0</vCOFINS>
+          <vOutro>0</vOutro>
+          <vNF>14175.00</vNF>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>0</modFrete>
+        <transporta>
+          <CNPJ>10384614000178</CNPJ>
+          <xNome>TRANS ANSANELY</xNome>
+          <IE>419130394111</IE>
+          <xEnder>R SADI CANOT BRANDAO, 200</xEnder>
+          <xMun>LINS</xMun>
+          <UF>SP</UF>
+        </transporta>
+        <veicTransp>
+          <placa>DPF9889</placa>
+          <UF>SP</UF>
+        </veicTransp>
+        <vol>
+          <qVol>405</qVol>
+          <esp>SACOS</esp>
+          <pesoL>4050.000</pesoL>
+          <pesoB>4060.000</pesoB>
+        </vol>
+      </transp>
+      <cobr>
+        <dup>
+          <nDup>0  000006449</nDup>
+          <dVenc>2017-08-19</dVenc>
+          <vDup>14175.00</vDup>
+        </dup>
+      </cobr>
+      <infAdic>
+        <infAdFisco>PROD. HORTICULAS E FRUTAS TRIBUTADAS A ALIQ.ZERO DE PIS/COFINS, CLASSIF NOS CAP. 7 E 8 DA TIPI(ART. 28 DA LEI 10.865 DE 2004)</infAdFisco>
+        <infCpl>PEDIDO 17810-1 REDUCAO BASE CALC P/ 12% CONF. DECRETO 49113 DE 10/11/2004 49113/2004</infCpl>
+      </infAdic>
+      <compra>
+        <xPed>17585</xPed>
+      </compra>
+    </infNFe>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+        <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+        <Reference URI="#NFe35170774302290000164550000000064491008111084">
+          <Transforms>
+            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+            <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+          </Transforms>
+          <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+          <DigestValue>lCiWWSUWHWR5C1G99nEOdecb4gY=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>Jw+nAYwd1RE3UsLiVgp6AnIdKc8v9EugFsUdWF0IeM7nCh2+0W9r++8BO8eXH9xKvc0jxWtbiYKjJNjniA7JkQBsHZT4GMKVs44zAg8gVjmz6w2sW7TVxqiPHdVv0LPNU1sMjlKerSWLBB2MeBLxzkzLvTmCfJrB+K9htSUIXxh1M9XubLgycmNi7TtF5ndieWCVGEYpsyeg/tvfH+MePBMGMXrFZis2xW2CSwV1PxyBESkOLGQqOZFs0se6T+3c0u3TQU1kn/jlAHpqspgUGslT+VcbxhDKodNdNNnGQ8M3oUPhMZ08dfgTK/9iRp45J33p+5nEv9+hq7Jfs5Kz5w==</SignatureValue>
+      <KeyInfo>
+        <X509Data>
+          <X509Certificate>MIIH0jCCBbqgAwIBAgIIW0mlNWrWihwwDQYJKoZIhvcNAQELBQAwTDELMAkGA1UEBhMCQlIxEzARBgNVBAoTCklDUC1CcmFzaWwxKDAmBgNVBAMTH1NFUkFTQSBDZXJ0aWZpY2Fkb3JhIERpZ2l0YWwgdjIwHhcNMTcwNzExMTgxNDAwWhcNMTgwNzExMTgxNDAwWjCB4jELMAkGA1UEBhMCQlIxEzARBgNVBAoTCklDUC1CcmFzaWwxFDASBgNVBAsTCyhFTSBCUkFOQ08pMRgwFgYDVQQLEw8wMDAwMDEwMDgwMzg5MDgxFDASBgNVBAsTCyhFTSBCUkFOQ08pMRQwEgYDVQQLEwsoRU0gQlJBTkNPKTEUMBIGA1UECxMLKEVNIEJSQU5DTykxFDASBgNVBAsTCyhFTSBCUkFOQ08pMRQwEgYDVQQLEwsoRU0gQlJBTkNPKTEgMB4GA1UEAxMXTkFUVVJBTEUgQUxJTUVOVE9TIExUREEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC2Jg0+3lJRoH28OILpFXjPH625pHZdyM3MCABfVHRWOhZ/SklZylKfquzmb0u+IW7N2Sc81usuJUlki+Elx0GuVTTyL5XNDb2qEonWpfKY5sjM/ZgWaM+jC4/BwF149Igez4Jb55J3vK1U68CvXzCliEhn4Ch6v9zFe529WsVlAbQZCxFB3eiF5juked3vAaomnKjiSb3FnUOvtr+1KZgUSmvTdSbzuyek/a6XScywLQ/C+OSKpA6h5mpy0Zgytd+FLTZJCG5d5kwJ7iwbXw2CHNYpIu2JZOgV9ww5BzRA6XMXfzSwYUm6W/lX3JYKrE1PSugvMQehNkZf4RdNtSkZAgMBAAGjggMfMIIDGzCBlwYIKwYBBQUHAQEEgYowgYcwRwYIKwYBBQUHMAKGO2h0dHA6Ly93d3cuY2VydGlmaWNhZG9kaWdpdGFsLmNvbS5ici9jYWRlaWFzL3NlcmFzYWNkdjIucDdiMDwGCCsGAQUFBzABhjBodHRwOi8vb2NzcC5jZXJ0aWZpY2Fkb2RpZ2l0YWwuY29tLmJyL3NlcmFzYWNkdjIwHwYDVR0jBBgwFoAUmuCDENcmm+m62oKygc45GtOHcIYwcQYDVR0gBGowaDBmBgZgTAECAQYwXDBaBggrBgEFBQcCARZOaHR0cDovL3B1YmxpY2FjYW8uY2VydGlmaWNhZG9kaWdpdGFsLmNvbS5ici9yZXBvc2l0b3Jpby9kcGMvZGVjbGFyYWNhby1zY2QucGRmMIHwBgNVHR8EgegwgeUwSaBHoEWGQ2h0dHA6Ly93d3cuY2VydGlmaWNhZG9kaWdpdGFsLmNvbS5ici9yZXBvc2l0b3Jpby9sY3Ivc2VyYXNhY2R2Mi5jcmwwQ6BBoD+GPWh0dHA6Ly9sY3IuY2VydGlmaWNhZG9zLmNvbS5ici9yZXBvc2l0b3Jpby9sY3Ivc2VyYXNhY2R2Mi5jcmwwU6BRoE+GTWh0dHA6Ly9yZXBvc2l0b3Jpby5pY3BicmFzaWwuZ292LmJyL2xjci9TZXJhc2EvcmVwb3NpdG9yaW8vbGNyL3NlcmFzYWNkdjIuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwgcgGA1UdEQSBwDCBvYEkRkFUVVJBTUVOVE9ATkFUVVJBTEVBTElNRU5UT1MuQ09NLkJSoD4GBWBMAQMEoDUTMzE1MDUxOTY0MDg2MTAwMzY4MzkwMDAwMDAwMDAwMDAwMDAwMDAxMTA5NjI1NVNTUCBTUKAhBgVgTAEDAqAYExZQQVVMTyBIRVJNSU5JTyBGQUNISU5JoBkGBWBMAQMDoBATDjc0MzAyMjkwMDAwMTY0oBcGBWBMAQMHoA4TDDAwMDAwMDAwMDAwMDANBgkqhkiG9w0BAQsFAAOCAgEAoluMTT3+UZKf25WZW+uLbjwd901GWe3j/VoYQuFTFgrcMfDzxH6MjclfLm4Cr62ap+KJ/xtHfLZuXWCeHAR+MvvlCB35tFKTpVTyR03b1ry7tMAnGmeLKIPSNlSH0zyPBWQvtYFC+G23ehQCB8TTu8o3GirfSjAxzHMSNQtivYW4SCOAgIiUADQTMhGtgkSLoqNFRajsgy2vuuijlXY2ZXbVXNy7m4PCIecRPHPeFuM8n/u8+kqOM9zbV2/l8s9X0kWM9iV7HYPLE5Ru/POZ3M++LPg1jmn4WsV82O7NXE0/Om3A6djeL2oKnO4oXqncDdnLlVsrfE9zwCdAnBvy/8U6hlSBbgcTobKc3XN8lqgtrn88xkmmj+Kc/MhdxCGQKCXDwVgGrKHBf7n41jxNcpEr9WzVHZWJbiidEskI0HgBQwfvXnxmTkbU2Cfb/6jFdEINq6Z3lM1Dg40wJUKsq/57RBwWC/flqyuJOFvgKfGtNcwowioSa0htOr3WyiyKdHPTwLMVP4u3UxgHiLlPJ9Oxdkf+r45SUwfbOz5qPDuZupIiOCZDgc95CQ75xFscQ/dyZbItAII0bjz94wZcKYdnymFzqXfap+Uvi+Krfjh4981ezcoISlkthfKhQ/0aNuGcJYfaxUB+vVxeS2yVDGzyXAzdoGu8KelztZsAwxc=</X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </Signature>
+  </NFe>
+  <protNFe versao="3.10">
+    <infProt Id="Id135170447176818">
+      <tpAmb>1</tpAmb>
+      <verAplic>SP_NFE_PL_008i2</verAplic>
+      <chNFe>35170774302290000164550000000064491008111084</chNFe>
+      <dhRecbto>2017-07-16T07:38:34-03:00</dhRecbto>
+      <nProt>135170447176818</nProt>
+      <digVal>lCiWWSUWHWR5C1G99nEOdecb4gY=</digVal>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>

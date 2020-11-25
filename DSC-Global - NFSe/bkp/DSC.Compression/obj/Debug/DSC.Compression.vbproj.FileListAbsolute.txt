@@ -1,0 +1,3 @@
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.Resources.resources
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.vbproj.GenerateResource.Cache

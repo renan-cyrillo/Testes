@@ -1,0 +1,8 @@
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Cryptography\bin\Debug\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Cryptography\bin\Debug\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Cryptography\bin\Debug\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Cryptography\obj\Debug\DSC.Cryptography.Resources.resources
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Cryptography\obj\Debug\DSC.Cryptography.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Cryptography\obj\Debug\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Cryptography\obj\Debug\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Cryptography\obj\Debug\DSC.Cryptography.pdb

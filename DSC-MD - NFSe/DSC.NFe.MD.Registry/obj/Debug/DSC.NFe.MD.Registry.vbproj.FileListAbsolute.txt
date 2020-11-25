@@ -1,0 +1,88 @@
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.pdb
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbprojResolveAssemblyReference.cache
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Resources.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbproj.GenerateResource.Cache
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbprojResolveAssemblyReference.cache
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Resources.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbproj.GenerateResource.Cache
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbprojResolveAssemblyReference.cache
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Resources.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbproj.GenerateResource.Cache
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbprojResolveAssemblyReference.cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Resources.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbproj.GenerateResource.Cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbproj.CopyComplete
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Registry\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Registry\bin\Debug\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.vbproj.CopyComplete
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.Registry\obj\Debug\DSC.NFe.MD.Registry.pdb

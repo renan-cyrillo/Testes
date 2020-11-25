@@ -1,0 +1,258 @@
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.exe
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.pdb
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\pgManifesto.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\Progress.o4glrt.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\Progress.Messages.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\Progress.ssl.dll
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.pdb
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.pdb
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbprojResolveAssemblyReference.cache
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmCheckListNew.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoProgress.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoSMTP.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracoes.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmMDConfiguracoes.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmImportarExportarRegistro.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmInstalaCertificado.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmNovoCNPJ.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmPainelControle.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmSelecaoCertificadoDigital.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.uctlItemCheckList.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.Resources.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.ResourceImages.resources
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbproj.GenerateResource.Cache
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.exe
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.xml
+C:\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbprojResolveAssemblyReference.cache
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmCheckListNew.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoProgress.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoSMTP.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracoes.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmMDConfiguracoes.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmImportarExportarRegistro.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmInstalaCertificado.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmNovoCNPJ.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmPainelControle.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmSelecaoCertificadoDigital.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.uctlItemCheckList.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.Resources.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.ResourceImages.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbproj.GenerateResource.Cache
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.xml
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbprojResolveAssemblyReference.cache
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmCheckListNew.resources
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoProgress.resources
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoSMTP.resources
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracoes.resources
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmMDConfiguracoes.resources
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmImportarExportarRegistro.resources
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmInstalaCertificado.resources
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmNovoCNPJ.resources
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmPainelControle.resources
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmSelecaoCertificadoDigital.resources
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.uctlItemCheckList.resources
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.Resources.resources
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.ResourceImages.resources
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbproj.GenerateResource.Cache
+\\dscspo01dc01\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.exe
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\Progress.ssl.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\pgManifesto.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\Progress.o4glrt.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\Progress.Messages.dll
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.pdb
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbprojResolveAssemblyReference.cache
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmCheckListNew.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoProgress.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoSMTP.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracoes.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmMDConfiguracoes.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmImportarExportarRegistro.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmInstalaCertificado.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmNovoCNPJ.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmPainelControle.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmSelecaoCertificadoDigital.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.uctlItemCheckList.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.Resources.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.ResourceImages.resources
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbproj.GenerateResource.Cache
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.exe
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.xml
+Z:\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.exe
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\Progress.ssl.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\pgManifesto.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\Progress.o4glrt.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\Progress.Messages.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbprojResolveAssemblyReference.cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmCheckListNew.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoProgress.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoSMTP.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracoes.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmMDConfiguracoes.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmImportarExportarRegistro.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmInstalaCertificado.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmNovoCNPJ.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmPainelControle.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmSelecaoCertificadoDigital.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.uctlItemCheckList.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.Resources.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.ResourceImages.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbproj.GenerateResource.Cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.exe
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.exe
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\Progress.ssl.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmCheckListNew.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoProgress.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoSMTP.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracoes.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmMDConfiguracoes.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmImportarExportarRegistro.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmInstalaCertificado.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmNovoCNPJ.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmPainelControle.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmSelecaoCertificadoDigital.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.uctlItemCheckList.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.ResourceImages.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.exe
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.exe
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\Progress.ssl.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmCheckListNew.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoProgress.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoSMTP.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracoes.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmMDConfiguracoes.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmImportarExportarRegistro.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmInstalaCertificado.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmNovoCNPJ.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmPainelControle.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmSelecaoCertificadoDigital.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.uctlItemCheckList.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.ResourceImages.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbproj.CopyComplete
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.exe
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.exe
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.PainelControle.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\Progress.ssl.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\bin\Debug\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmCheckListNew.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoProgress.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracaoSMTP.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmConfiguracoes.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmMDConfiguracoes.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmImportarExportarRegistro.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmInstalaCertificado.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmNovoCNPJ.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmPainelControle.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.frmSelecaoCertificadoDigital.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.uctlItemCheckList.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.ResourceImages.resources
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.vbproj.CopyComplete
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.exe
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.xml
+C:\Users\renan\Source\Workspaces\DSC-MD - NFSe\DSC.NFe.MD.PainelControle\obj\Debug\DSC.NFe.MD.PainelControle.pdb

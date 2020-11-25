@@ -1,0 +1,96 @@
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.vbprojResolveAssemblyReference.cache
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.Resources.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.vbproj.GenerateResource.Cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.AppBaixaXmlNFe.exe
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.AppBaixaXmlNFe.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.AppBaixaXmlNFe.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.EmailProtocol.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Log.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Progress.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Registry.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Sefaz.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\pgManifesto.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\Progress.o4glrt.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.Cryptography.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\Progress.Messages.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.EmailProtocol.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.EmailProtocol.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Log.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Log.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Sefaz.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Sefaz.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Progress.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Progress.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Registry.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Registry.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.Cryptography.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.Cryptography.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.vbprojResolveAssemblyReference.cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.Resources.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.vbproj.GenerateResource.Cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.exe
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.exe
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.AppBaixaXmlNFe.exe
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.AppBaixaXmlNFe.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.AppBaixaXmlNFe.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Sefaz.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Sefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Sefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.AppBaixaXmlNFe.exe
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.AppBaixaXmlNFe.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.AppBaixaXmlNFe.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.EmailProtocol.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Log.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Progress.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Registry.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Sefaz.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\Progress.o4glrt.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\pgManifesto.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\Progress.Messages.dll
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.EmailProtocol.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.EmailProtocol.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Log.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Log.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Sefaz.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Sefaz.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.Sefaz.dll.config
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Progress.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Progress.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Registry.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.NFe.MD.Registry.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\bin\Release\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.vbproj.CopyComplete
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.exe
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.xml
+C:\Users\renan\Source\Workspaces\DSC-MD\DSC.NFe.MD.AppBaixaXmlNFe\obj\Release\DSC.NFe.MD.AppBaixaXmlNFe.pdb

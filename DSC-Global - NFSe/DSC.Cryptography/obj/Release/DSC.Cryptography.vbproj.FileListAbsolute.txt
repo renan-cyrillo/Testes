@@ -1,0 +1,45 @@
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\bin\Release\DSC.Cryptography.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\bin\Release\DSC.Cryptography.pdb
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\bin\Release\DSC.Cryptography.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.Resources.resources
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.dll
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.xml
+\\192.168.0.132\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.pdb
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\bin\Release\DSC.Cryptography.dll
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\bin\Release\DSC.Cryptography.pdb
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\bin\Release\DSC.Cryptography.xml
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.Resources.resources
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.vbproj.GenerateResource.Cache
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.dll
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.xml
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.pdb
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\ResolveAssemblyReference.cache
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\GenerateResource.read.1.tlog
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\GenerateResource.write.1.tlog
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\bin\Release\DSC.Cryptography.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\bin\Release\DSC.Cryptography.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\bin\Release\DSC.Cryptography.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.Resources.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.vbproj.GenerateResource.Cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Cryptography\bin\Release\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Cryptography\bin\Release\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Cryptography\bin\Release\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Cryptography\bin\Release\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Cryptography\bin\Release\DSC.Cryptography.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Cryptography\bin\Release\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Cryptography\obj\Release\DSC.Cryptography.pdb

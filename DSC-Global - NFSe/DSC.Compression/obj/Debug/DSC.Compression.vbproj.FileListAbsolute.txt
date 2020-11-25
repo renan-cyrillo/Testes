@@ -1,0 +1,67 @@
+C:\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.dll
+C:\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.pdb
+C:\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.xml
+C:\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.Resources.resources
+C:\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.ZipResource.resources
+C:\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.vbproj.GenerateResource.Cache
+C:\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.dll
+C:\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.xml
+C:\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.pdb
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.dll
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.pdb
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.xml
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.Resources.resources
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.ZipResource.resources
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.vbproj.GenerateResource.Cache
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.dll
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.xml
+\\dscspo01dc01\fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.pdb
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.dll
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.pdb
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.xml
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.Resources.resources
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.ZipResource.resources
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.dll
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.xml
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.pdb
+\\192.168.0.132\Fabrica\Net\projetos\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.vbproj.GenerateResource.Cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.pdb
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.Resources.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.ZipResource.resources
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.vbproj.GenerateResource.Cache
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.dll
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.xml
+C:\PROJETO .NET\DSC-ProjetosNFe\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.pdb
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.dll
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.pdb
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.xml
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.Resources.resources
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.ZipResource.resources
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.dll
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.xml
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.pdb
+C:\Users\renan\Source\Workspaces\RA V3\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.ZipResource.resources
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.vbproj.GenerateResource.Cache
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.dll
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.xml
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.pdb
+C:\Users\renan\Source\Workspaces\DSC-PRODUTOS\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.vbprojResolveAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.pdb
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Compression\bin\Debug\DSC.Compression.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.vbprojAssemblyReference.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.Resources.resources
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.ZipResource.resources
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.vbproj.GenerateResource.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.dll
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.xml
+C:\Users\renan\Source\Workspaces\DSC-Global\DSC.Compression\obj\Debug\DSC.Compression.pdb
