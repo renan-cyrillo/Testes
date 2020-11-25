@@ -1,0 +1,6 @@
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Application\bin\Debug\DKP.MDRA.Application.dll
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Application\bin\Debug\DKP.MDRA.Application.pdb
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Application\obj\Debug\DKP.MDRA.Application.csprojAssemblyReference.cache
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Application\obj\Debug\DKP.MDRA.Application.csproj.CoreCompileInputs.cache
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Application\obj\Debug\DKP.MDRA.Application.dll
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Application\obj\Debug\DKP.MDRA.Application.pdb

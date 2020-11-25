@@ -1,0 +1,12 @@
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Infra.Data\bin\Debug\netstandard2.0\DKP.MDRA.Domain.dll
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Infra.Data\obj\Debug\netstandard2.0\DKP.MDRA.Infra.Data.csprojAssemblyReference.cache
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Infra.Data\obj\Debug\netstandard2.0\DKP.MDRA.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Infra.Data\obj\Debug\netstandard2.0\DKP.MDRA.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Infra.Data\obj\Debug\netstandard2.0\DKP.MDRA.Infra.Data.AssemblyInfo.cs
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Infra.Data\bin\Debug\netstandard2.0\DKP.MDRA.Infra.Data.deps.json
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Infra.Data\bin\Debug\netstandard2.0\DKP.MDRA.Infra.Data.dll
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Infra.Data\bin\Debug\netstandard2.0\DKP.MDRA.Domain.pdb
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Infra.Data\obj\Debug\netstandard2.0\DKP.MDRA.Infra.Data.csproj.CopyComplete
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Infra.Data\bin\Debug\netstandard2.0\DKP.MDRA.Infra.Data.pdb
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Infra.Data\obj\Debug\netstandard2.0\DKP.MDRA.Infra.Data.dll
+C:\Users\renan\Source\repos\DKP.MDRA\DKP.MDRA.Infra.Data\obj\Debug\netstandard2.0\DKP.MDRA.Infra.Data.pdb
