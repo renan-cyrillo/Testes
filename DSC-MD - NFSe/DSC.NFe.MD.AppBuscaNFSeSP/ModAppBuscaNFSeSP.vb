@@ -309,57 +309,84 @@ Module ModAppBuscaNFSeSP
                 Throw New Exception("Certificado Digital do cnpj " & String.Format("{0:00\.000\.000\/0000\-00}", cnpj) & " só estará ativo a partir de " & x509.GetEffectiveDateString)
             End If
 
-            'aqui
-            'Dim signedXml As New Security.Cryptography.Xml.SignedXml()
-            'tentar assinar
-            Dim xmlDocTeste As New XmlDocument()
-            xmlDocTeste.PreserveWhitespace = True
-            xmlDocTeste.InnerXml = xmlConsNFeDest
+            ''aqui
+            ''Dim signedXml As New Security.Cryptography.Xml.SignedXml()
+            ''tentar assinar
+            'Dim xmlDocTeste As New XmlDocument()
+            'xmlDocTeste.PreserveWhitespace = True
+            'xmlDocTeste.InnerXml = xmlConsNFeDest
 
-            Dim xmlAss As New Security.Cryptography.Xml.SignedXml(xmlDocTeste)
-            xmlAss.SigningKey = x509.PrivateKey
+            'Dim xmlAss As New Security.Cryptography.Xml.SignedXml(xmlDocTeste)
+            'xmlAss.SigningKey = x509.PrivateKey
 
-            Dim referencia As New Security.Cryptography.Xml.Reference()
-            referencia.Uri = ""
+            'Dim referencia As New Security.Cryptography.Xml.Reference()
+            'referencia.Uri = ""
 
-            Dim env As New XmlDsigEnvelopedSignatureTransform
+            'Dim env As New XmlDsigEnvelopedSignatureTransform
 
-            referencia.AddTransform(env)
+            'referencia.AddTransform(env)
 
-            Dim c14 As New XmlDsigC14NTransform
+            'Dim c14 As New XmlDsigC14NTransform
 
-            referencia.AddTransform(c14)
+            'referencia.AddTransform(c14)
 
-            xmlAss.AddReference(referencia)
+            'xmlAss.AddReference(referencia)
 
-            Dim keyInfo As New KeyInfo
+            'Dim keyInfo As New KeyInfo
 
-            keyInfo.AddClause(New KeyInfoX509Data(x509))
+            'keyInfo.AddClause(New KeyInfoX509Data(x509))
 
-            xmlAss.KeyInfo = keyInfo
+            'xmlAss.KeyInfo = keyInfo
+
+
+            'Try
+            '    xmlAss.ComputeSignature()
+
+            'Catch ex As Exception
+            '    Throw New Exception(ex.Message)
+
+            'End Try
+
+            'Dim xmlAssinado As XmlElement
+            'Dim assinatura As New Global.DSC.NFe.Sefaz.Nfse.Versao1.XmlModel.pedCosnultaNFePeriodo.SignatureType
+
+            'Try
+            '    xmlAssinado = xmlAss.GetXml()
+            '    assinatura.Id = xmlAssinado.OuterXml
+            '    pedConsulta.Signature = assinatura
+
+
+            'Catch ex As Exception
+            '    Throw New Exception(ex.Message)
+
+            'End Try
+            Dim mensagemXML = "<?xml version=""1.0"" encoding=""UTF-8""?>"
+            mensagemXML = mensagemXML + "<PedidoConsultaNFePeriodo xmlns=""http://www.prefeitura.sp.gov.br/nfe"">"
+            mensagemXML = mensagemXML + "<Cabecalho Versao = ""1"" >"
+            'mensagemXML = mensagemXML + "<CPFCNPJRemetente>"
+            'mensagemXML = mensagemXML + "<CNPJ>00CNPJ00</CNPJ>"
+            'mensagemXML = mensagemXML + " </CPFCNPJRemetente>"
+            mensagemXML = mensagemXML + "<CPFCNPJ>"
+            mensagemXML = mensagemXML + "<CNPJ>86902053000113</CNPJ>"
+            mensagemXML = mensagemXML + " </CPFCNPJ>"
+            'mensagemXML = mensagemXML + "<Inscricao>00Inscricao00</Inscricao>"
+            mensagemXML = mensagemXML + " <dtInicio>2020-11-20</dtInicio>"
+            mensagemXML = mensagemXML + "<dtFim>2020-11-20</dtFim>"
+            mensagemXML = mensagemXML + "<NumeroPagina>1</NumeroPagina>"
+            mensagemXML = mensagemXML + "</Cabecalho>"
+            mensagemXML = mensagemXML + "</PedidoConsultaNFePeriodo>"
+
+            Dim xmlAssinado As New XmlDocument()
 
 
             Try
-                xmlAss.ComputeSignature()
+                xmlAssinado = Assinar(mensagemXML, x509)
 
             Catch ex As Exception
                 Throw New Exception(ex.Message)
 
             End Try
 
-            Dim xmlAssinado As XmlElement
-            Dim assinatura As New Global.DSC.NFe.Sefaz.Nfse.Versao1.XmlModel.pedCosnultaNFePeriodo.SignatureType
-
-            Try
-                xmlAssinado = xmlAss.GetXml()
-                assinatura.Id = xmlAssinado.OuterXml
-                pedConsulta.Signature = assinatura
-
-
-            Catch ex As Exception
-                Throw New Exception(ex.Message)
-
-            End Try
 
 
             'pedConsulta.Signature.SignatureValue = xmlAssinado.InnerText
@@ -420,12 +447,12 @@ Module ModAppBuscaNFSeSP
             Dim XmlNodeRet As String
             ' Dim XmlNodeRetTeste As String
 
-            'XmlNodeRet = nfeDistribuicaoDFe.nfeDistDFeInteresse(node)
-            Dim cabecalhoo = "<?xml version=""1.0"" encoding=""utf-8""?><PedidoConsultaNFePeriodo xmlns=""http://www.prefeitura.sp.gov.br/nfe""><Cabecalho Versao=""1"" xmlns="""">  <CPFCNPJRemetente><CNPJ>86902053000113</CNPJ></CPFCNPJRemetente>  <dtInicio>2020-11-12</dtInicio>  <dtFim>2020-11-12</dtFim>  <NumeroPagina>1</NumeroPagina></Cabecalho></PedidoConsultaNFePeriodo>"
-            Dim assinaturaa = pedConsulta.Signature.Id
-            Dim xmlCompleto = cabecalhoo + assinaturaa
+            ''XmlNodeRet = nfeDistribuicaoDFe.nfeDistDFeInteresse(node)
+            'Dim cabecalhoo = "<?xml version=""1.0"" encoding=""utf-8""?><PedidoConsultaNFePeriodo xmlns=""http://www.prefeitura.sp.gov.br/nfe""><Cabecalho Versao=""1"" xmlns="""">  <CPFCNPJRemetente><CNPJ>86902053000113</CNPJ></CPFCNPJRemetente>  <dtInicio>2020-11-12</dtInicio>  <dtFim>2020-11-12</dtFim>  <NumeroPagina>1</NumeroPagina></Cabecalho></PedidoConsultaNFePeriodo>"
+            'Dim assinaturaa = pedConsulta.Signature.Id
+            'Dim xmlCompleto = cabecalhoo + assinaturaa
             Try
-                XmlNodeRet = testeWSDL.ConsultaNFeRecebidas(1, xmlCompleto)
+                XmlNodeRet = testeWSDL.ConsultaNFeRecebidas(1, xmlAssinado.OuterXml)
 
             Catch ex As Exception
                 Throw New Exception(ex.Message)
@@ -560,6 +587,43 @@ Module ModAppBuscaNFSeSP
 
         Return dicCertificate
 
+    End Function
+
+
+    Private Function Assinar(ByVal mensagemXML As String, ByVal certificado As System.Security.Cryptography.X509Certificates.X509Certificate2) As XmlDocument
+        Dim xmlDoc As New System.Xml.XmlDocument()
+        Dim Key As New System.Security.Cryptography.RSACryptoServiceProvider()
+        Dim SignedDocument As System.Security.Cryptography.Xml.SignedXml
+        Dim keyInfo As New System.Security.Cryptography.Xml.KeyInfo()
+        xmlDoc.LoadXml(mensagemXML)
+        'Retira chave privada ligada ao certificado
+        Key = CType(certificado.PrivateKey,
+        System.Security.Cryptography.RSACryptoServiceProvider)
+        'Adiciona Certificado ao Key Info
+        keyInfo.AddClause(New _
+        System.Security.Cryptography.Xml.KeyInfoX509Data(certificado))
+        SignedDocument = New System.Security.Cryptography.Xml.SignedXml(xmlDoc)
+        'Seta chaves
+        SignedDocument.SigningKey = Key
+        SignedDocument.KeyInfo = keyInfo
+
+        ' Cria referencia
+        Dim reference As New System.Security.Cryptography.Xml.Reference()
+        reference.Uri = String.Empty
+        ' Adiciona transformacao a referencia
+        reference.AddTransform(New _
+        System.Security.Cryptography.Xml.XmlDsigEnvelopedSignatureTransform())
+        reference.AddTransform(New _
+        System.Security.Cryptography.Xml.XmlDsigC14NTransform(False))
+        ' Adiciona referencia ao xml
+        SignedDocument.AddReference(reference)
+        ' Calcula Assinatura
+        SignedDocument.ComputeSignature()
+        ' Pega representação da assinatura
+        Dim xmlDigitalSignature As System.Xml.XmlElement = SignedDocument.GetXml()
+        ' Adiciona ao doc XML
+        xmlDoc.DocumentElement.AppendChild(xmlDoc.ImportNode(xmlDigitalSignature, True))
+        Return xmlDoc
     End Function
 
 End Module
